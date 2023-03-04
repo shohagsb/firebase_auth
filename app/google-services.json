@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554321660991",
+    "firebase_url": "https://shohag-me.firebaseio.com",
+    "project_id": "shohag-me",
+    "storage_bucket": "shohag-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554321660991:android:85121501e47b6473f37c8a",
+        "android_client_info": {
+          "package_name": "me.shohag.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554321660991-j34o3mg5ujsekuajfn45f0hnjboi5t25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.shohag.firebaseauthentication",
+            "certificate_hash": "2079ff4c0735473410f449945bf598afdc39ce06"
+          }
+        },
+        {
+          "client_id": "554321660991-b9h917kru8d0jpf19hu1u6lf0598vj59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2V6kdcttwxIQFZ4pgBx5y1ri_1T5jpRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554321660991-b9h917kru8d0jpf19hu1u6lf0598vj59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
