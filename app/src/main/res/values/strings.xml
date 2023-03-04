@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+
+    <string name="facebook_app_id">730912841854239</string>
+    <string name="fb_login_protocol_scheme">fb730912841854239</string>
+    <string name="facebook_client_token">096232be0cc36ff29fab6343bf009f1e</string>
+    <string name="sign_out">Sign out</string>
+</resources>
